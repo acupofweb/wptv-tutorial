@@ -51,3 +51,20 @@
 *To add a slide we have to create a new video track first.
 
 *Right click on the bottom left panel and choose "Add Video Track" from the pop-up window.
+
+If you can't see both video tracks just resize the timeline dragging the five dots in the upper part of the timeline area.
+
+Now, choose where you want to put the slide, place the playhead where you want the slide to appear and drag the slide onto the timeline where the playhead is, you'll notice that the left side of the slide will stick to the playhead to help positioning it.
+
+Then choose the duration of the slide, according to what is showing. If there are many lines of code that are important to the presentation you may want to keep the slide longer, if It's important but only a bit informative keep it for a short amount of time. To change the duration just drag the right side of the side.
+
+Now we'll add a nice transition to the slide. To do so click on the slide on the timeline and activate the Filters tab on the left panel.
+
+Click on the Plus button, choose "Fade In Video", set the duration at 1 second and tick the "Adjust opacity" box. Then click again on the Plus button and add a "Fade Out Video" filter, keeping 1 second of duration and also ticking the "Adjust opacity" box.
+
+Check the result and repeat for any other slide you need to add to the video.
+
+When you have add all the slide the video is now completed with an intro and outro panel, the slide and the transitions effect.
+
+The last step is exporting the video in the right format, resolution and size.
+
