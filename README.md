@@ -9,8 +9,8 @@ TO DO:
 3. Make a list of the steps needed (DONE -> see script)
 4. Write the script for the video (DONE)
 5. Submit the script to Wptv team (DONE -> link in chat int)
-6. Present raw video to WordCamp WPtv team
-7. When approved, record audio
+6. Present raw video to WordCamp WPtv team (DONE)
+7. When approved, record audio (waiting for input, starting soon)
 8. Mix Audio and video
 9. Final cut with Intro/Outro
 10. Submit to Wptv
